@@ -44,3 +44,16 @@ alter table izlozba add foreign key (sponzor) references sponzor(sifra);
 
 alter table clan add foreign key (izlozba) references izlozba(sifra);
 alter table clan add foreign key (djelo) references djelo(sifra);
+
+
+insert into kustos (ime,prezime,email) values
+('Marko','Markić','marko@gmail.com'),
+('Darko','Darkić','darko@gmail.com'),
+('Stipe','Stipić','stipe@gmail.com'),
+('Zoran','Zorkić','zoka@gmail.com'),
+('Ivan','Ivanić','ivan@gmail.com'),
+('Ivana','Ivić','ivana@gmail.com'),
+('Stojko','Stojkić','stojka@gmail.com'),
+('Marin','Marinić','marin@gmail.com'),
+('Rebeka','Rebekić','rebeka@gmail.com'),
+('Zlatka','Zlatkić','zlatka@gmail.com');
