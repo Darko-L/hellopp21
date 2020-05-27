@@ -23,7 +23,7 @@ create table djelo(
     sifra int not null primary key auto_increment,
     ime varchar(100) not null,
     autor varchar(70) null,
-    nastao_godine datetime null
+    nastao_godine varchar(50) null
 );
 
 create table sponzor(
@@ -49,7 +49,7 @@ alter table clan add foreign key (djelo) references djelo(sifra);
 insert into kustos (ime,prezime,email) values
 ('Marko','Markić','marko@gmail.com'),
 ('Darko','Darkić','darko@gmail.com'),
-('Stipe','Stipić','stipe@gmail.com'),
+('Stipe','Stipić','stipegit@gmail.com'),
 ('Zoran','Zorkić','zoka@gmail.com'),
 ('Ivan','Ivanić','ivan@gmail.com'),
 ('Ivana','Ivić','ivana@gmail.com'),
@@ -57,3 +57,43 @@ insert into kustos (ime,prezime,email) values
 ('Marin','Marinić','marin@gmail.com'),
 ('Rebeka','Rebekić','rebeka@gmail.com'),
 ('Zlatka','Zlatkić','zlatka@gmail.com');
+
+insert into djelo(ime,autor,nastao_godine) values
+('Mona Lisa','Leonardo da Vinci','1503'),
+('Salvator Mundi','Leonardo da Vinci','1500'),
+('Posljednja vecera','Leonardo da Vinci','1498'),
+('Sveti Ivan Krstitelj','Leonardo da Vinci','1513'),
+('Mary Magdalene','Leonardo da Vinci','1499'),
+('Krštenje Kristovo','Leonardo da Vinci','1475'),
+('Bacchus','Leonardo da Vinci','1515'),
+('Madonna Litta','Leonardo da Vinci','1490'),
+('Djevica s djetetom i mačkom','Leonardo da Vinci','1478'),
+('David','Michelangelo Buonarroti','1504'),
+('Posljednji sud','Michelangelo Buonarroti','1541'),
+('Sveta obitelj','Michelangelo Buonarroti','1506'),
+('Mojsije','Michelangelo Buonarroti','1515'),
+('Djevica s Isusom','Michelangelo Buonarroti','1504'),
+('Bitka kentaura','Michelangelo Buonarroti','1492'),
+('Umirući rob','Michelangelo Buonarroti','1516'),
+('Krist na križu','Michelangelo Buonarroti','1492'),
+('Faunova glava','Michelangelo Buonarroti','1489'),
+('Delfijska sibila','Michelangelo Buonarroti','1509'),
+('Napastovanje i izgon iz raja','Michelangelo Buonarroti','1512'),
+('Rob koji se budi','Michelangelo Buonarroti','1536'),
+('Polaganje Krista u grob','Michelangelo Buonarroti','1501'),
+('David i Golijat','Michelangelo Buonarroti','1509'),
+('Apollo','Michelangelo Buonarroti','1530'),
+('Dan','Michelangelo Buonarroti','1531'),
+('Pobjeda','Michelangelo Buonarroti','1534'),
+('Rob Atlas','Michelangelo Buonarroti','1536'),
+('Sveti Petar','Michelangelo Buonarroti','1495'),
+('Čučeći dječak','Michelangelo Buonarroti','1530'),
+('Madonna Medici','Michelangelo Buonarroti','1531');
+
+
+
+
+
+
+
+
