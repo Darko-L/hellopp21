@@ -88,7 +88,34 @@ insert into djelo(ime,autor,nastao_godine) values
 ('Rob Atlas','Michelangelo Buonarroti','1536'),
 ('Sveti Petar','Michelangelo Buonarroti','1495'),
 ('Čučeći dječak','Michelangelo Buonarroti','1530'),
-('Madonna Medici','Michelangelo Buonarroti','1531');
+('Madonna Medici','Michelangelo Buonarroti','1531'),
+('La Fornarian','Raffaello Santi da Urbino','1520'),
+('Vjenčanj Djevice','Raffaello Santi da Urbino','1504'),
+('Žena s velom','Raffaello Santi da Urbino','1515'),
+('Mlada žena s jednorogom','Raffaello Santi da Urbino','1506'),
+('Madona s češljugarom','Raffaello Santi da Urbino','1506'),
+('Uskrsnuće Kristovo','Raffaello Santi da Urbino','1502'),
+('Portret Mladića','Raffaello Santi da Urbino','1514'),
+('Portret Agnolo Doni','Raffaello Santi da Urbino','1506'),
+('Sveta obitelj','Raffaello Santi da Urbino','1508'),
+('Madonna del Grandca','Raffaello Santi da Urbino','1505'),
+('Sveti Juraj i zmaj','Raffaello Santi da Urbino','1506'),
+('Sveti Mihael','Raffaello Santi da Urbino','1504'),
+('Vizija viteza','Raffaello Santi da Urbino','1504'),
+('Samo portret s prijateljem','Raffaello Santi da Urbino','1520'),
+('La donna gravida','Raffaello Santi da Urbino','1506'),
+('Sveti Ivan Krstitelj u pustinji','Raffaello Santi da Urbino','1516'),
+('The deposition','Raffaello Santi da Urbino','1510'),
+('David','Donato di Niccolo di Betto Bardi','1440'),
+('Sveti Juraj','Donato di Niccolo di Betto Bardi','1445'),
+('Zuccone','Donato di Niccolo di Betto Bardi','1425'),
+('Judita i Holoferno','Donato di Niccolo di Betto Bardi','1460'),
+('Marzocco','Donato di Niccolo di Betto Bardi','1418'),
+('Pazzi Madonna','Donato di Niccolo di Betto Bardi','1420'),
+('Sveti Juraj i zmaj','Donato di Niccolo di Betto Bardi','nepoznato'),
+('Putto s tamburinom','Donato di Niccolo di Betto Bardi','1429');
+
+
 
 
 
