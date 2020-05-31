@@ -113,7 +113,32 @@ insert into djelo(ime,autor,nastao_godine) values
 ('Marzocco','Donato di Niccolo di Betto Bardi','1418'),
 ('Pazzi Madonna','Donato di Niccolo di Betto Bardi','1420'),
 ('Sveti Juraj i zmaj','Donato di Niccolo di Betto Bardi','nepoznato'),
-('Putto s tamburinom','Donato di Niccolo di Betto Bardi','1429');
+('Putto s tamburinom','Donato di Niccolo di Betto Bardi','1429'),
+('Jedači krumpira','Vincent van Gogh','1885'),
+('Slikar na putu prema Tarasconu','Vincent van Gogh','1888'),
+('Crveni vinograd','Vincent van Gogh','1888'),
+('Zvjezdana noć','Vincent van Gogh','1889'),
+('Autoportret','Vincent van Gogh','1889'),
+('Cafe Terrace an night','Vincent van Gogh','1888'),
+('Žuta kuća','Vincent van Gogh','1888'),
+('Žitno polje s gavranima','Vincent van Gogh','1890'),
+('Čempresi','Vincent van Gogh','1889'),
+('Na pragu vječnosti','Vincent van Gogh','1890'),
+('Autoportret s odrezanim uhum','Vincent van Gogh','1889'),
+('Spavaća soba u Arlesu','Vincent van Gogh','1888'),
+('Crveni vinograd','Vincent van Gogh','1888'),
+('Par čizama','Vincent van Gogh','1886'),
+('Vaza s cvijećem','Vincent van Gogh','1887'),
+('Bulb fields','Vincent van Gogh','1883'),
+('Siesta','Vincent van Gogh','1890'),
+('Dvije krabe','Vincent van Gogh','1889'),
+('Suncokreti','Vincent van Gogh','1888'),
+('Kraba na leđima','Vincent van Gogh','1888'),
+('Sorrow','Vincent van Gogh','1882'),
+('Dobri Samatiranac','Vincent van Gogh','nepoznato'),
+('Žitno polje s čempresima','Vincent van Gogh','1889'),
+('field with poppies','Vincent van Gogh','1889');
+
 
 
 
