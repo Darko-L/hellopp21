@@ -1,4 +1,4 @@
-# c:\skola\xampp\mysql\bin\mysql -uedunova -pedunova < c:\skola\muzej_zavrsni.sql
+# c:\skola\xampp\mysql\bin\mysql -uedunova -pedunova < c:\skola\repos\hellopp21\muzej_zavrsni.sql
 
 drop database if exists muzej_zavrsni;
 create database muzej_zavrsni;
@@ -137,7 +137,34 @@ insert into djelo(ime,autor,nastao_godine) values
 ('Sorrow','Vincent van Gogh','1882'),
 ('Dobri Samatiranac','Vincent van Gogh','nepoznato'),
 ('Žitno polje s čempresima','Vincent van Gogh','1889'),
-('field with poppies','Vincent van Gogh','1889');
+('Field with poppies','Vincent van Gogh','1889'),
+('Veliki masturbator','Salvador Dali','1929'),
+('Postojanost pamćenja','Salvador Dali','1931'),
+('Plamteća žirafa','Salvador Dali','1937'),
+('Slonovi','Salvador Dali','1948'),
+('Melting Watch','Salvador Dali','1954'),
+('Sakrament posljednje večere','Salvador Dali','1955'),
+('Dezintegracija postojanja','Salvador Dali','1954'),
+('Iskušenje svetog Antuna','Salvador Dali','1946'),
+('Nebeska Galatea','Salvador Dali','1952'),
+('San','Salvador Dali','1937'),
+('Zagonetka žudnje','Salvador Dali','1929'),
+('Halucinogeni toreador','Salvador Dali','1970'),
+('Zagonetka Hitlera','Salvador Dali','1939'),
+('Lice rata','Salvador Dali','1940'),
+('Metamorfoza narcisa','Salvador Dali','1937'),
+('Masturbirajući Hitler','Salvador Dali','1973'),
+('Portret mog mrtvog brata','Salvador Dali','1963'),
+('Brzo kretanje mrtve prirode','Salvador Dali','1956'),
+('Košara s kruhom','Salvador Dali','1945'),
+('Žalosna igra','Salvador Dali','1929'),
+('Nevidljivi čovjek','Salvador Dali','1933'),
+('Ekumenski sabor','Salvador Dali','1960'),
+('Krajolik oko Figuerasa','Salvador Dali','1910'),
+('Prvi dan proljeća','Salvador Dali','1929'),
+('Glava Europe','Salvador Dali','1965'),
+('Beskonačna Zagonetka','Salvador Dali','1938');
+
 
 
 
