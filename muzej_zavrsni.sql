@@ -166,6 +166,14 @@ insert into djelo(ime,autor,nastao_godine) values
 ('Beskonačna Zagonetka','Salvador Dali','1938');
 
 
+insert into sponzor(ime,oib,email) values
+('Osiječko','12345678910','osijeco@gmail.com'),
+('Paulaner','98765432110','paulaner@gmail.com'),
+('Heineken','14725893692','heineken@gmail.com'),
+('The monks of the Augustinian Order','85236974125','monks@gmail.com'),
+('Hofbräuhaus','96325874101','hofbräuhaus@gmail.com'),
+('Löwenbräu','78912345610','löwenbräu@gmail.com');
+
 
 
 
