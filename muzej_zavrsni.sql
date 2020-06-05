@@ -163,7 +163,21 @@ insert into djelo(ime,autor,nastao_godine) values
 ('Krajolik oko Figuerasa','Salvador Dali','1910'),
 ('Prvi dan proljeća','Salvador Dali','1929'),
 ('Glava Europe','Salvador Dali','1965'),
-('Beskonačna Zagonetka','Salvador Dali','1938');
+('Beskonačna Zagonetka','Salvador Dali','1938'),
+('Kip Joe Strummer','Darko Luketić','1998'),
+('Kip Mick Jones' ,'Darko Luketić','2000'),
+('Slika Paul Simonon','Darko Luketić','1997'),
+('SlikaTopper Headon','Darko Luketić','2001'),
+('Slika Mickey Gallagher','Darko Luketić','1996'),
+('Kip Johnny Rotten','Darko Luketić','1990'),
+('Slika Steve Jones','Darko Luketić','1992'),
+('Kip Paul Cook','Darko Luketić','1997'),
+('Kip Glen Matlock','Darko Luketić','1997'),
+('Slika Sid Vicious','Darko Luketić','1989'),
+('Kip Branko Črnac Tusta','Darko Luketić','1987'),
+('Kip Saša Milovanović','Darko Luketić','1997'),
+('Slika Davor Zgrabljić','Darko Luketić','1999'),
+('Slika Dejo','Darko Luketić','1998');
 
 
 insert into sponzor(ime,oib,email) values
