@@ -177,7 +177,27 @@ insert into djelo(ime,autor,nastao_godine) values
 ('Kip Branko Črnac Tusta','Darko Luketić','1987'),
 ('Kip Saša Milovanović','Darko Luketić','1997'),
 ('Slika Davor Zgrabljić','Darko Luketić','1999'),
-('Slika Dejo','Darko Luketić','1998');
+('Slika Dejo','Darko Luketić','1998'),
+('Podizanje križa','Peter Paul Rubens','1610'),
+('Skidanje s križa','Peter Paul Rubens','1614'),
+('Saturn proždire svoga sina','Peter Paul Rubens','1636'),
+('Parisov sud','Peter Paul Rubens','1639'),
+('Pad prokletih','Peter Paul Rubens','1620'),
+('Vrt ljubavi','Peter Paul Rubens','1633'),
+('Samson i Dalila','Peter Paul Rubens','1610'),
+('Poklonstvo kraljeva','Peter Paul Rubens','1609'),
+('Danijel u lavljoj jami','Peter Paul Rubens','1615'),
+('Medusa','Peter Paul Rubens','1618'),
+('Lavlji lov','Peter Paul Rubens','1621'),
+('Het Pelsken','Peter Paul Rubens','1638'),
+('Vezani Prometej','Peter Paul Rubens','1612'),
+('Dva satira','Peter Paul Rubens','1619'),
+('Bacchanal','Peter Paul Rubens','1615'),
+('Silovanje Europe','Peter Paul Rubens','1629'),
+('Bitka s Amazonkama','Peter Paul Rubens','1615'),
+('Mars i Rhea Silvia','Peter Paul Rubens','1620'),
+('Venerina gozba','Peter Paul Rubens','1637'),
+('Rimska milostivost','Peter Paul Rubens','1612');
 
 
 insert into sponzor(ime,oib,email) values
