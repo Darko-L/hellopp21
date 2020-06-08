@@ -208,6 +208,26 @@ insert into sponzor(ime,oib,email) values
 ('Hofbräuhaus','96325874101','hofbräuhaus@gmail.com'),
 ('Löwenbräu','78912345610','löwenbräu@gmail.com');
 
+# select * from djelo;
+
+insert into izlozba(naziv,kustos,sponzor) values
+('Punkrock',2,1);
+
+insert into clan(izlozba,djelo,pozicija) values
+(1,106,'d1'),
+(1,107,'d2'),
+(1,108,'d3'),
+(1,109,'d4'),
+(1,110,'d5'),
+(1,111,'d6'),
+(1,112,'d7'),
+(1,113,'d8'),
+(1,114,'d9'),
+(1,115,'d10'),
+(1,116,'d11'),
+(1,117,'d12'),
+(1,117,'d13'),
+(1,119,'d14');
 
 
 
