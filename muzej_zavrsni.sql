@@ -211,7 +211,8 @@ insert into sponzor(ime,oib,email) values
 # select * from djelo;
 
 insert into izlozba(naziv,kustos,sponzor) values
-('Punkrock',2,1);
+('Punkrock',2,1),
+('Rana renesansa',1,2);
 
 insert into clan(izlozba,djelo,pozicija) values
 (1,106,'d1'),
@@ -227,7 +228,16 @@ insert into clan(izlozba,djelo,pozicija) values
 (1,116,'d11'),
 (1,117,'d12'),
 (1,117,'d13'),
-(1,119,'d14');
+(1,119,'d14'),
+(2,48,'a1'),
+(2,49,'a2'),
+(2,50,'a3'),
+(2,51,'a4'),
+(2,52,'a5'),
+(2,53,'a6'),
+(2,54,'a7'),
+(2,55,'a8');
+
 
 
 
