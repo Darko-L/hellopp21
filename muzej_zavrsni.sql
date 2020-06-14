@@ -213,7 +213,8 @@ insert into sponzor(ime,oib,email) values
 insert into izlozba(naziv,kustos,sponzor) values
 ('Punkrock',2,1),
 ('Rana renesansa',1,2),
-('Postimprsionizam',3,3);
+('Postimprsionizam',3,3),
+('Renesansa',4,4);
 
 
 insert into clan(izlozba,djelo,pozicija) values
@@ -262,8 +263,27 @@ insert into clan(izlozba,djelo,pozicija) values
 (3,76,'c21'),
 (3,77,'c22'),
 (3,78,'c23'),
-(3,79,'c24');
-
+(3,79,'c24'),
+(4,1,'b1'),
+(4,2,'b2'),
+(4,3,'b3'),
+(4,4,'b4'),
+(4,5,'b5'),
+(4,6,'b6'),
+(4,7,'b7'),
+(4,8,'b8'),
+(4,9,'b9'),
+(4,10,'b10'),
+(4,11,'b11'),
+(4,12,'b12'),
+(4,13,'b13'),
+(4,14,'b14'),
+(4,15,'b15'),
+(4,16,'b16'),
+(4,17,'b17'),
+(4,18,'b18'),
+(4,19,'b19'),
+(4,20,'b20');
 
 
 
